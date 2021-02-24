@@ -8,7 +8,7 @@
 
 Algumas das tecnologias que estou estudando atualmente são: React JS, Node.js, Next.js, Typescript, Yarn e demais tecnologias que apareçam ao longo este trajeto.
 
-Participando do #NLW04, promovido pela Rocketseat:
+👉&nbsp;Estou participando do #NLW04, promovido pela Rocketseat, de 22 a 28 de Fevereiro:
 <a href="https://nextlevelweek.com/inscricao/4" target="_blank"><img width="auto" src="https://cdn.discordapp.com/attachments/694609874197151754/813851700011335730/NLW04_pack_divulgacao_-_Github.png"></a>
 
 Além destas tecnologias que estou me aperfeiçoando, também tenho conhecimentos em ADVPL, Javascript, HTML, CSS, PHP, C, Node.js, jQuery, PostgreSQL, MySQL e Oracle SQL. Qualquer dúvida que tiverem, entrem em contato comigo através dos contatos abaixo que tentarei auxiliá-los no que puder.
