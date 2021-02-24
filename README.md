@@ -14,4 +14,4 @@ Além destas tecnologias que estou me aperfeiçoando, também tenho conhecimento
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Otávio%20de%20Moraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizotaviodemoraes/)](https://www.linkedin.com/in/luizotaviodemoraes/) | 
 [![Gmail Badge](https://img.shields.io/badge/-1luizzotavio0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1luizzotavio0@gmail.com)](mailto:1luizzotavio0@gmail.com)
 
-[!Github Badge](https://img.shields.io/badge/Status-em%20constante%20aprendizado-green)
+![](https://img.shields.io/badge/Status-em%20constante%20aprendizado-green)
