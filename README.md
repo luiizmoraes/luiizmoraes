@@ -4,7 +4,7 @@
 
 <br />Primeiramente agradeço por estar visitando meu repositório!!
 <br />Sou formado em Sistemas de Informação, atualmente trabalho como desenvolvedor no Grupo SIAGRI 🖥️🌾
-<br />Um dos meus principais objetivos no momento é aperfeiçoar meus conhecimentos para desenvolvimento web.
+<br />Um dos meus principais objetivos no momento é aperfeiçoar meus conhecimentos para desenvolvimento web 🎯
 
 Algumas das tecnologias que estou estudando atualmente são: React JS, Node.js, Next.js, Typescript, Yarn e demais tecnologias que apareçam ao longo este trajeto.
 
