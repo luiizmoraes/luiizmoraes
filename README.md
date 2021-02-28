@@ -1,5 +1,3 @@
-# Luiz Otávio de Moraes
-
 ## 🙋‍♂️ E aí galera!
 
 <br />Primeiramente agradeço por estar visitando meu repositório!!
