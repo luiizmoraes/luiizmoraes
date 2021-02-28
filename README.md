@@ -4,7 +4,7 @@
 <br />Sou formado em Sistemas de Informação, atualmente trabalho como desenvolvedor no Grupo SIAGRI 🖥️🌾
 <br />Um dos meus principais objetivos no momento é aperfeiçoar meus conhecimentos para desenvolvimento web 🎯
 
-Algumas das tecnologias que estou estudando atualmente são: React JS, Node.js, Next.js, Typescript, Yarn e demais tecnologias que apareçam ao longo este trajeto.
+Algumas das tecnologias que estou estudando atualmente são: React JS, Node.js, Next.js, Typescript e demais tecnologias que apareçam ao longo este trajeto.
 
 👉&nbsp;Estou participando do #NLW04, promovido pela Rocketseat, de 22 a 28 de Fevereiro:
 <a href="https://nextlevelweek.com/inscricao/4" target="_blank"><img width="auto" src="https://cdn.discordapp.com/attachments/694609874197151754/813851700011335730/NLW04_pack_divulgacao_-_Github.png"></a>
