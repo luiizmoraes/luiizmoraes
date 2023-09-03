@@ -6,7 +6,7 @@
 <br />Algumas das tecnologias que estou estudando atualmente são: React JS, Node.js e Typescript.
 
 
-Além destas, também tenho conhecimentos em ADVPL, Javascript, HTML, CSS, Node.js, jQuery, PostgreSQL, MySQL e Oracle SQL.
+Além destas, também tenho conhecimentos em ADVPL, Javascript, HTML, CSS, jQuery, PostgreSQL, MySQL e Oracle SQL.
 
 <br /><br />
 📣&nbsp;Meus contatos:&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Otávio%20de%20Moraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizotaviodemoraes/)](https://www.linkedin.com/in/luizotaviodemoraes/) &nbsp;[![Gmail Badge](https://img.shields.io/badge/-1luizzotavio0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1luizzotavio0@gmail.com)](mailto:1luizzotavio0@gmail.com)
